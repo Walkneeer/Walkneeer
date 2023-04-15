@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @Walkneeer
-- 👀 I’m interested in space
-- 🌱 I’m currently learning 
-- 💞️ My website nicolaslamour.com
+- 👀 I’m interested in ML
+- 🌱 I’m currently learning
